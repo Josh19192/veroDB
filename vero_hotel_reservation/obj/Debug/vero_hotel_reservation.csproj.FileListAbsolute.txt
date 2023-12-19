@@ -1,0 +1,72 @@
+E:\vero_hotel_reservation\vero_hotel_reservation\bin\Debug\vero_hotel_reservation.exe.config
+E:\vero_hotel_reservation\vero_hotel_reservation\bin\Debug\vero_hotel_reservation.exe
+E:\vero_hotel_reservation\vero_hotel_reservation\bin\Debug\vero_hotel_reservation.pdb
+E:\vero_hotel_reservation\vero_hotel_reservation\bin\Debug\MySql.Data.dll
+E:\vero_hotel_reservation\vero_hotel_reservation\obj\Debug\vero_hotel_reservation.csprojResolveAssemblyReference.cache
+E:\vero_hotel_reservation\vero_hotel_reservation\obj\Debug\vero_hotel_reservation.LogIn.resources
+E:\vero_hotel_reservation\vero_hotel_reservation\obj\Debug\vero_hotel_reservation.Properties.Resources.resources
+E:\vero_hotel_reservation\vero_hotel_reservation\obj\Debug\vero_hotel_reservation.csproj.GenerateResource.Cache
+E:\vero_hotel_reservation\vero_hotel_reservation\obj\Debug\vero_hotel_reservation.exe
+E:\vero_hotel_reservation\vero_hotel_reservation\obj\Debug\vero_hotel_reservation.pdb
+E:\vero_hotel_reservation\vero_hotel_reservation\obj\Debug\vero_hotel_reservation.MainForm.resources
+E:\vero_hotel_reservation\vero_hotel_reservation\obj\Debug\vero_hotel_reservation.CreateUser.resources
+E:\vero_hotel_reservation\vero_hotel_reservation\obj\Debug\vero_hotel_reservation.CustomerList.resources
+F:\vero_hotel_reservation\vero_hotel_reservation\bin\Debug\vero_hotel_reservation.exe.config
+F:\vero_hotel_reservation\vero_hotel_reservation\obj\Debug\vero_hotel_reservation.exe
+F:\vero_hotel_reservation\vero_hotel_reservation\obj\Debug\vero_hotel_reservation.pdb
+E:\vero_hotel_reservation\vero_hotel_reservation\obj\Debug\vero_hotel_reservation.AddCustomer.resources
+E:\vero_hotel_reservation\vero_hotel_reservation\obj\Debug\vero_hotel_reservation.DailyUpdate.resources
+E:\vero_hotel_reservation\vero_hotel_reservation\obj\Debug\vero_hotel_reservation.AddRoom.resources
+E:\vero_hotel_reservation\vero_hotel_reservation\obj\Debug\vero_hotel_reservation.RoomList.resources
+E:\vero_hotel_reservation\vero_hotel_reservation\obj\Debug\vero_hotel_reservation.Report.resources
+D:\Video Presentation Final System\vero_hotel_reservation\vero_hotel_reservation\bin\Debug\vero_hotel_reservation.exe.config
+D:\Video Presentation Final System\vero_hotel_reservation\vero_hotel_reservation\obj\Debug\vero_hotel_reservation.exe
+D:\Video Presentation Final System\vero_hotel_reservation\vero_hotel_reservation\obj\Debug\vero_hotel_reservation.pdb
+D:\Video Presentation Final System\vero_hotel_reservation\vero_hotel_reservation\bin\Debug\vero_hotel_reservation.exe
+D:\Video Presentation Final System\vero_hotel_reservation\vero_hotel_reservation\bin\Debug\vero_hotel_reservation.pdb
+D:\Video Presentation Final System\vero_hotel_reservation\vero_hotel_reservation\obj\Debug\vero_hotel_reservation.csprojResolveAssemblyReference.cache
+D:\Video Presentation Final System\vero_hotel_reservation\vero_hotel_reservation\obj\Debug\vero_hotel_reservation.AddCustomer.resources
+D:\Video Presentation Final System\vero_hotel_reservation\vero_hotel_reservation\obj\Debug\vero_hotel_reservation.AddRoom.resources
+D:\Video Presentation Final System\vero_hotel_reservation\vero_hotel_reservation\obj\Debug\vero_hotel_reservation.CreateUser.resources
+D:\Video Presentation Final System\vero_hotel_reservation\vero_hotel_reservation\obj\Debug\vero_hotel_reservation.CustomerList.resources
+D:\Video Presentation Final System\vero_hotel_reservation\vero_hotel_reservation\obj\Debug\vero_hotel_reservation.DailyUpdate.resources
+D:\Video Presentation Final System\vero_hotel_reservation\vero_hotel_reservation\obj\Debug\vero_hotel_reservation.LogIn.resources
+D:\Video Presentation Final System\vero_hotel_reservation\vero_hotel_reservation\obj\Debug\vero_hotel_reservation.MainForm.resources
+D:\Video Presentation Final System\vero_hotel_reservation\vero_hotel_reservation\obj\Debug\vero_hotel_reservation.Properties.Resources.resources
+D:\Video Presentation Final System\vero_hotel_reservation\vero_hotel_reservation\obj\Debug\vero_hotel_reservation.Report.resources
+D:\Video Presentation Final System\vero_hotel_reservation\vero_hotel_reservation\obj\Debug\vero_hotel_reservation.RoomList.resources
+D:\Video Presentation Final System\vero_hotel_reservation\vero_hotel_reservation\obj\Debug\vero_hotel_reservation.csproj.GenerateResource.Cache
+D:\vero_hotel_reservation\vero_hotel_reservation\bin\Debug\vero_hotel_reservation.exe.config
+D:\vero_hotel_reservation\vero_hotel_reservation\obj\Debug\vero_hotel_reservation.exe
+D:\vero_hotel_reservation\vero_hotel_reservation\obj\Debug\vero_hotel_reservation.pdb
+D:\vero_hotel_reservation\vero_hotel_reservation\bin\Debug\vero_hotel_reservation.exe
+D:\vero_hotel_reservation\vero_hotel_reservation\bin\Debug\vero_hotel_reservation.pdb
+D:\vero_hotel_reservation\vero_hotel_reservation\obj\Debug\vero_hotel_reservation.csprojResolveAssemblyReference.cache
+D:\vero_hotel_reservation\vero_hotel_reservation\obj\Debug\vero_hotel_reservation.AddCustomer.resources
+D:\vero_hotel_reservation\vero_hotel_reservation\obj\Debug\vero_hotel_reservation.AddRoom.resources
+D:\vero_hotel_reservation\vero_hotel_reservation\obj\Debug\vero_hotel_reservation.CreateUser.resources
+D:\vero_hotel_reservation\vero_hotel_reservation\obj\Debug\vero_hotel_reservation.CustomerList.resources
+D:\vero_hotel_reservation\vero_hotel_reservation\obj\Debug\vero_hotel_reservation.DailyUpdate.resources
+D:\vero_hotel_reservation\vero_hotel_reservation\obj\Debug\vero_hotel_reservation.LogIn.resources
+D:\vero_hotel_reservation\vero_hotel_reservation\obj\Debug\vero_hotel_reservation.MainForm.resources
+D:\vero_hotel_reservation\vero_hotel_reservation\obj\Debug\vero_hotel_reservation.Properties.Resources.resources
+D:\vero_hotel_reservation\vero_hotel_reservation\obj\Debug\vero_hotel_reservation.Report.resources
+D:\vero_hotel_reservation\vero_hotel_reservation\obj\Debug\vero_hotel_reservation.RoomList.resources
+D:\vero_hotel_reservation\vero_hotel_reservation\obj\Debug\vero_hotel_reservation.csproj.GenerateResource.Cache
+C:\vero_hotel_reservation\vero_hotel_reservation\bin\Debug\vero_hotel_reservation.exe.config
+C:\vero_hotel_reservation\vero_hotel_reservation\obj\Debug\vero_hotel_reservation.exe
+C:\vero_hotel_reservation\vero_hotel_reservation\obj\Debug\vero_hotel_reservation.pdb
+C:\vero_hotel_reservation\vero_hotel_reservation\bin\Debug\vero_hotel_reservation.exe
+C:\vero_hotel_reservation\vero_hotel_reservation\bin\Debug\vero_hotel_reservation.pdb
+C:\vero_hotel_reservation\vero_hotel_reservation\obj\Debug\vero_hotel_reservation.csprojResolveAssemblyReference.cache
+C:\vero_hotel_reservation\vero_hotel_reservation\obj\Debug\vero_hotel_reservation.AddCustomer.resources
+C:\vero_hotel_reservation\vero_hotel_reservation\obj\Debug\vero_hotel_reservation.AddRoom.resources
+C:\vero_hotel_reservation\vero_hotel_reservation\obj\Debug\vero_hotel_reservation.CreateUser.resources
+C:\vero_hotel_reservation\vero_hotel_reservation\obj\Debug\vero_hotel_reservation.CustomerList.resources
+C:\vero_hotel_reservation\vero_hotel_reservation\obj\Debug\vero_hotel_reservation.DailyUpdate.resources
+C:\vero_hotel_reservation\vero_hotel_reservation\obj\Debug\vero_hotel_reservation.LogIn.resources
+C:\vero_hotel_reservation\vero_hotel_reservation\obj\Debug\vero_hotel_reservation.MainForm.resources
+C:\vero_hotel_reservation\vero_hotel_reservation\obj\Debug\vero_hotel_reservation.Properties.Resources.resources
+C:\vero_hotel_reservation\vero_hotel_reservation\obj\Debug\vero_hotel_reservation.Report.resources
+C:\vero_hotel_reservation\vero_hotel_reservation\obj\Debug\vero_hotel_reservation.RoomList.resources
+C:\vero_hotel_reservation\vero_hotel_reservation\obj\Debug\vero_hotel_reservation.csproj.GenerateResource.Cache
